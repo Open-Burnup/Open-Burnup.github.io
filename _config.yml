@@ -1,0 +1,10 @@
+title: Julien de Troullioud de Lanversin
+email: jdtdl@princeton.edu
+twitter_username: JTroullioud
+github_username: jlanversin
+
+# Project URL
+permalink: /work/:title/
+
+# Build settings
+markdown: kramdown
